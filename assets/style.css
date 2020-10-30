@@ -1,0 +1,33 @@
+.container-fluid {
+    background-color: #fffcf2;
+}
+.main-title {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.title {
+    text-align: center;
+    padding-top: 15px;
+}
+.surfClubImage {
+    background: transparent;
+    align-content: center;
+    align-self: center;
+    
+}
+.company-logo {
+    height: 300px;
+    width: 300px;
+}
+
+/* Button for sign up */
+.signUp-btn {
+    text-align: center;
+    background-color: #f6aa1c;
+    margin-top: 15px;
+}
+
+.email-form {
+    text-align: center;
+}
