@@ -1,4 +1,8 @@
 # sunshineSurfClub.github.io
+local deployed application: https://aaronkplatt.github.io/sunshineSurfClub.github.io/
+
+help: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server#how
+
 Project with Bringo
 
 Title of the project: Sunshine Surf Club

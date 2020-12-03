@@ -14,11 +14,16 @@
     background: transparent;
     align-content: center;
     align-self: center;
+    height: 100px;
+    width: 100px;
     
 }
 .company-logo {
     height: 300px;
     width: 300px;
+    margin: 0px;
+    align-content: center;
+    align-self: center;
 }
 
 /* Button for sign up */
