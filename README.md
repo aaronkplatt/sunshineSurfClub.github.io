@@ -3,6 +3,17 @@ local deployed application: https://aaronkplatt.github.io/sunshineSurfClub.githu
 
 help: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server#how
 
+To Do:
+center text about,
+font,
+About text..
+How to set up sending email to user,
+Can you make the curser a wave using font awesome,
+When submit, submit buton spin and fade,
+fix white,
+go daddy deploy
+
+
 Project with Bringo
 
 Title of the project: Sunshine Surf Club
@@ -24,8 +35,6 @@ What do you want to accomplish: Sign Up to data base for info, about, calender?,
 How many pages do we need to make: 2
 
 Do you want a contact page: yEs
-
-How many photos are you going to be posting? Just logo, photos after draft. 
 
 # To do:
 To publish a website ill need to set up a zoom call with my dad
