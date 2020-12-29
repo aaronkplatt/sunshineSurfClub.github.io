@@ -4,13 +4,16 @@ local deployed application: https://aaronkplatt.github.io/sunshineSurfClub.githu
 help: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server#how
 
 To Do:
-center text about,
-font,
-About text..
-How to set up sending email to user,
-Can you make the curser a wave using font awesome,
-When submit, submit buton spin and fade,
-fix white,
+set address (street name, zip, city, state) = today ---------------
+center text about, -DONE
+font, -quick ------------
+About text.. -quick, copy and paste -----------
+How to set up sending email to user, - to do --------
+
+Can you make the curser a wave using font awesome, - no
+When submit, submit buton spin and fade, - maybe
+
+fix white, done
 go daddy deploy
 
 
