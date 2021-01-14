@@ -28,6 +28,7 @@ html, body {
 .title {
     text-align: center;
     padding-top: 15px;
+    font-family: monospace;
 }
 .company-logo {
     height: 300px;
@@ -40,6 +41,7 @@ html, body {
 }
 #aboutText {
     text-align: center;
+    font-family: monospace;
 }
 
 /* Button for sign up */
@@ -47,8 +49,14 @@ html, body {
     text-align: center;
     background-color: #f6aa1c;
     margin-top: 15px;
+    font-family: monospace;
 }
 
 .email-form {
     text-align: center;
+    font-family: monospace;
+}
+
+.form-row {
+    font-family: monospace;  
 }

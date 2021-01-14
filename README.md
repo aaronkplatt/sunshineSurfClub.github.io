@@ -11,7 +11,7 @@ About text.. -quick, copy and paste -----------
 How to set up sending email to user, - to do --------
 
 Can you make the curser a wave using font awesome, - no
-When submit, submit buton spin and fade, - maybe
+When submit, submit buton spin and fade, - no
 
 fix white, done
 go daddy deploy
