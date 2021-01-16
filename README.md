@@ -3,19 +3,14 @@ local deployed application: https://aaronkplatt.github.io/sunshineSurfClub.githu
 
 help: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server#how
 
+the sheets:
+https://docs.google.com/spreadsheets/d/12u8xdUwAMLDAr0O_qldjs_WKq4aUqpDalibRTBrdKi0/edit#gid=0
+
+
+
 To Do:
-set address (street name, zip, city, state) = today ---------------
-center text about, -DONE
-font, -quick ------------
-About text.. -quick, copy and paste -----------
-How to set up sending email to user, - to do --------
-
-Can you make the curser a wave using font awesome, - no
-When submit, submit buton spin and fade, - no
-
-fix white, done
-go daddy deploy
-
+go daddy deploy,
+switch emails
 
 Project with Bringo
 

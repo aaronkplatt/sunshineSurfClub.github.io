@@ -8,8 +8,6 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     background: transparent;
 }
 
-
-
 .container-fluid {
     background-color: #fffcf2;
     height: 100%;
@@ -42,6 +40,7 @@ html, body {
 #aboutText {
     text-align: center;
     font-family: monospace;
+    font-size: 30px;
 }
 
 /* Button for sign up */
@@ -49,7 +48,9 @@ html, body {
     text-align: center;
     background-color: #f6aa1c;
     margin-top: 15px;
+    font-size: 15px;
     font-family: monospace;
+    border-radius: 6px;
 }
 
 .email-form {
@@ -59,4 +60,9 @@ html, body {
 
 .form-row {
     font-family: monospace;  
+}
+
+.thankyou-text {
+    font-family: monospace;  
+    text-align: center;
 }
