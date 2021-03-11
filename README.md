@@ -1,10 +1,8 @@
 # sunshineSurfClub.github.io
-local deployed application: https://aaronkplatt.github.io/sunshineSurfClub.github.io/
 
 help: https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server#how
 
-the sheets:
-https://docs.google.com/spreadsheets/d/12u8xdUwAMLDAr0O_qldjs_WKq4aUqpDalibRTBrdKi0/edit#gid=0
+
 
 
 
